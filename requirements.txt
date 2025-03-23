@@ -1,0 +1,10 @@
+streamlit
+sentence-transformers
+langchain
+langchain-community
+langchain-google-genai
+openai-whisper
+langchain-community chromadb
+torch
+torchvision
+torchaudio
